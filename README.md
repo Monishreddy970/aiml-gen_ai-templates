@@ -1,4 +1,5 @@
 creditcard app link: https://github.com/Monishreddy970/creditcard.prdict
+app resources link:https://github.com/Monishreddy970/Credit_Card_Approval
 
 # 💳 Credit Card Approval Prediction
 
