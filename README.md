@@ -214,3 +214,5 @@ Contributions, suggestions, and improvements are welcome. Feel free to fork the 
 GitHub: monish.k
 
 Repository: https://github.com/Monishreddy970/aiml-gen_ai-templates
+repository:
+https://github.com/Monishreddy970/Credit_Card_Approval
