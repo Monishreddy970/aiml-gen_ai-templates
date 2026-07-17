@@ -212,7 +212,7 @@ Contributions, suggestions, and improvements are welcome. Feel free to fork the 
 
 **Monish Kaamala**
 
-GitHub: monish.k
+GitHub: https://github.com/Monishreddy970
 
 Repository: https://github.com/Monishreddy970/aiml-gen_ai-templates
 repository:
