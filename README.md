@@ -1,6 +1,6 @@
 creditcard app link: https://github.com/Monishreddy970/creditcard.prdict
 app resources link:https://github.com/Monishreddy970/Credit_Card_Approval
-
+demo link:https://photos.app.goo.gl/ewzQhqZq9DgiD8ny9
 # 💳 Credit Card Approval Prediction
 
 A Machine Learning and Flask-based web application that predicts whether a credit card application is likely to be approved based on applicant details. The system helps financial institutions make faster, more consistent, and data-driven credit approval decisions.
